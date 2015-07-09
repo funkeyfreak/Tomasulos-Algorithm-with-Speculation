@@ -21,5 +21,5 @@ The memory unit acts as the bridge between the load/store instructions and memor
 <h2>Address Unit</h2>
 The address unit is used to calculate the address for load words.
 
-<h3>Other Modules and Components</h3>
+<h3>Other Modules</h3>
 Please note that we include the semi-related ALU, FP Adders/Mults/etc. components along with the aforementioned components in the resources provided.
